@@ -20,11 +20,11 @@ permalink: /:categories/:title
 excerpt_separator: "[-----]"
 
 url: # Required: replace this with your domain
-name: unifreak # Required: will be displayed on every page's header
+name: Como resolver isso # Required: will be displayed on every page's header
 title: FangHao's blog # Required: site's default title
 shout: # Required: **TWO** lines, will be displayed on page's header.
-  - NEVER
-  - OR NOW
+  - PROBLEMAS
+  - e soluções
 description: "Fanghao's personal blog, on IT tech, personal thoughts and other things..." # Required
 
 disqus:
