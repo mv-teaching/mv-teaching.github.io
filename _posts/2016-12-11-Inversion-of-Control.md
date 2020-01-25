@@ -13,7 +13,7 @@ _原文在 2005/06/26 发表于 <http://martinfowler.com/bliki/InversionOfContro
 
 ```ruby
   #ruby
-  puts 'What is your name?'
+  puts '\frac{2x\times x^2}{\cos\theta}'
   name = gets
   process_name(name)
   puts 'What is your quest?'
