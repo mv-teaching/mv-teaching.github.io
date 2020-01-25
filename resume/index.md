@@ -90,7 +90,7 @@ Email: [fanghao90s@gmail.com](mailto:fanghao90s@gmail.com) <br />
 
 # 技术/工具
 
-__语言__ `PHP` `Python` `Shell` `C` `SQL` `HTML/CSS` `JS/ES6` `jQuery` `Markdown` `Regex`
+__语言__ `PHP` `Python` `Shell` `C` `SQL` `HTML/CSS` `JS/ES6` `jQuery` `Markdown` `Latex`
 
 __框架__ `Laravel/Lumen` `ThinkPHP` `Yii` `Flask` `Vue`.js `SASS` `Bootstrap` `jQuery` `Liquid`
 
