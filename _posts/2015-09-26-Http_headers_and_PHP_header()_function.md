@@ -12,7 +12,7 @@ _原文链接: <http://www.nicholassolutions.com/tutorials/php/headers.html>_
 _版权: 本文受 Creative Commons License 版权保护, 你可以在 Creative Commons Attribution NonCommercial NoDerives 2.5 License 下分发该文_
 
 
-# 引言
+
 
 许多初级到中级的的 PHP 程序员把 [header()][header reference] 函数当作某种神秘巫术. 他们可以照着代码示例把功能实现, 但是还是不知道到底它是如果运作的. 我最开始就是这样的.
 
