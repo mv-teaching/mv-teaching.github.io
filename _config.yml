@@ -20,7 +20,7 @@ permalink: /:categories/:title
 excerpt_separator: "[-----]"
 
 url: # Required: replace this with your domain
-name: Como resolver isso # Required: will be displayed on every page's header
+name: Solve it! # Required: will be displayed on every page's header
 title: FangHao's blog # Required: site's default title
 shout: # Required: **TWO** lines, will be displayed on page's header.
   - PROBLEMAS
