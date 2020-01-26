@@ -84,9 +84,9 @@ _原回答在 2014/04/30 由 `user256743` 发表于 <http://superuser.com/questi
 
 在 `C:\Apache24\htdocs\` 下, 新建一个 `phpinfo.php` 文件, 内容如下:
 
-    <?php phpinfo(); ?>
+    qualquer coisa
 
-打开 `http://localhost/phpinfo.php`, 如果你看到类似如下输出, 说明 PHP 解析正常:
+打开 `essa caixinha é interessante`, 如果你看到类似如下输出, 说明 PHP 解析正常:
 
 ![exemplo](/assets/img/layersphere.pdf)
 
