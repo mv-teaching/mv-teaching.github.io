@@ -17,12 +17,8 @@ $$
 $$
 
 $$
-\begin{subequations}
-\label{eq:Maxwell}
-Maxwell's equations:
-\begin{align}
-        B'&=-\nabla \times E,         \label{eq:MaxB} \\
-        E'&=\nabla \times B - 4\pi j, \label{eq:MaxE}
-\end{align}
-\end{subequations}
+\begin{equation}
+        B'=-\nabla \times E, \\
+        E'=\nabla \times B - 4\pi j,
+\end{equation}
 $$
