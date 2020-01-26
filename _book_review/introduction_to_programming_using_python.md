@@ -5,6 +5,17 @@ tags:
 	- equations
 	- latex
 mathjax: true
+&lt;script type=&quot;text/javascript&quot; src=&quot;/opt/mathjax/MathJax.js?config=TeX-AMS_HTML&quot;
+ MathJax.Hub.Config({
+   tex2jax: {
+     inlineMath: [ ['$','$'], [&quot;\\(&quot;,&quot;\\)&quot;] ],
+     displayMath: [ ['$$','$$'], [&quot;\\[&quot;,&quot;\\]&quot;] ],},
+   TeX: {equationNumbers: {
+     autoNumber: &quot;AMS&quot;
+   }},
+ });
+&lt;/script&gt;
+$\newcommand{\const}{\mathrm{const}}$
 ---
 
 Usando latex para escrever no blog
