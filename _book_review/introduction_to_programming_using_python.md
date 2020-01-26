@@ -6,7 +6,7 @@ tags:
 	- latex
 MathJax = {
   tex: {
-    packages: ['base'],        // extensions to use
+    packages: ['full'],        // extensions to use
     inlineMath: [              // start/end delimiter pairs for in-line math
       ['\\(', '\\)']
     ],
@@ -42,10 +42,10 @@ $$
  L' = {L}{\sqrt{1-\frac{v^2}{c^2}}}
 $$
 
-$$
+\begin{equation}
        	B'=-\nabla \times E, \\	
        	E'=\nabla \times B - 4\pi j
-$$
+\end{equation}
 
 
 
