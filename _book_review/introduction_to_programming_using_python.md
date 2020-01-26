@@ -4,17 +4,16 @@ title: Equations on Markdown
 tags:
 	- equations
 	- latex
-&lt;script type=&quot;text/javascript&quot; src=&quot;/opt/mathjax/MathJax.js?config=TeX-AMS_HTML&quot;
- MathJax.Hub.Config({
-   tex2jax: {
-     inlineMath: [ ['$','$'], [&quot;\\(&quot;,&quot;\\)&quot;] ],
-     displayMath: [ ['$$','$$'], [&quot;\\[&quot;,&quot;\\]&quot;] ],},
-   TeX: {equationNumbers: {
-     autoNumber: &quot;AMS&quot;
-   }},
- });
-&lt;/script&gt;
-$\newcommand{\const}{\mathrm{const}}$
+<script>
+MathJax = {
+  tex: {
+    inlineMath: [['$', '$'], ['\\(', '\\)']]
+  }
+};
+</script>
+<script id="MathJax-script" async
+  src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml.js">
+</script>
 ---
 
 Usando latex para escrever no blog
