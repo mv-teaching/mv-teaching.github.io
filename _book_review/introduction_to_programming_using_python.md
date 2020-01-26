@@ -19,7 +19,7 @@ MathJax = {
     processRefs: true,         // process \ref{...} outside of math mode
     digits: /^(?:[0-9]+(?:\{,\}[0-9]{3})*(?:\.[0-9]*)?|\.[0-9]+)/,
                                // pattern for recognizing numbers
-    tags: 'all',              // or 'ams' or 'all'
+    tags: 'ams',              // or 'ams' or 'all'
     tagSide: 'right',          // side for \tag macros
     tagIndent: '0.8em',        // amount to indent tags
     useLabelIds: true,         // use label name rather than tag for ids
@@ -43,10 +43,8 @@ $$
 $$
 
 $$
-\begin{equation}
        	B'=-\nabla \times E, \\	
        	E'=\nabla \times B - 4\pi j
-\end{equation}
 $$
 
 
