@@ -43,10 +43,10 @@ $$
 $$
 
 \begin{equation}
-\begin{align}
+\begin{aligned}
        	B'&=-\nabla \times E, \\	
        	E'&=\nabla \times B - 4\pi j
-\end{align}
+\end{aligned}
 \end{equation}
 
 
