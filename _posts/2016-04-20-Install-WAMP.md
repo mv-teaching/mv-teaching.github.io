@@ -88,7 +88,7 @@ _原回答在 2014/04/30 由 `user256743` 发表于 <http://superuser.com/questi
 
 打开 `essa caixinha é interessante`, 如果你看到类似如下输出, 说明 PHP 解析正常:
 
-![exemplo](/assets/img/astronaut.jpg)
+![exemplo](/assets/img/layersphere.pdf "Titulo")
 
 ### [可选] 启用 PHP MySql 扩展
 
