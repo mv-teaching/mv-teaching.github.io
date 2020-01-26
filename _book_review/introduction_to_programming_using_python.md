@@ -4,7 +4,6 @@ title: Equations on Markdown
 tags:
 	- equations
 	- latex
-mathjax: true
 MathJax = {
   tex: {
     packages: ['base'],        // extensions to use
