@@ -6,7 +6,7 @@ tags:
 	- latex
 MathJax = {
   tex: {
-    packages: ['input/tex-full'],        // extensions to use
+    packages: ['base'],        // extensions to use
     inlineMath: [              // start/end delimiter pairs for in-line math
       ['\\(', '\\)']
     ],
