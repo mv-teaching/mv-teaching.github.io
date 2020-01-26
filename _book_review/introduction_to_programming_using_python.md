@@ -13,10 +13,10 @@ Verificação de compilação:
 - Escrevendo equaçoes no markdowm
 
 $$
- L' = {L}{\sqrt{1-\frac{v^2}{c^2}}}
+ L' = {L}{\sqrt{1-\frac{v^2}{c^2}}}	(01)
 $$
 
 $$
-       	B'=-\nabla \times E, \\
-       	E'=\nabla \times B - 4\pi j
+       	B'=-\nabla \times E, \\	
+       	E'=\nabla \times B - 4\pi j	(02)
 $$
