@@ -43,11 +43,12 @@ $$
  L' = {L}{\sqrt{1-\frac{v^2}{c^2}}}
 $$
 
+$$
 \begin{equation}
        	B'=-\nabla \times E, \\	
        	E'=\nabla \times B - 4\pi j
 \end{equation}
-
+$$
 
 
 
