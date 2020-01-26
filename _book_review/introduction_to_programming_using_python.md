@@ -4,16 +4,7 @@ title: Equations on Markdown
 tags:
 	- equations
 	- latex
-<script>
-MathJax = {
-  tex: {
-    inlineMath: [['$', '$'], ['\\(', '\\)']]
-  }
-};
-</script>
-<script id="MathJax-script" async
-  src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml.js">
-</script>
+MathJax = true
 ---
 
 Usando latex para escrever no blog
