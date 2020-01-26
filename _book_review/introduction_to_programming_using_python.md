@@ -16,6 +16,7 @@ $$
  L' = {L}{\sqrt{1-\frac{v^2}{c^2}}}
 $$
 
+$$
 \begin{subequations}
 \label{eq:Maxwell}
 Maxwell's equations:
@@ -24,4 +25,4 @@ Maxwell's equations:
         E'&=\nabla \times B - 4\pi j, \label{eq:MaxE}
 \end{align}
 \end{subequations}
-
+$$
