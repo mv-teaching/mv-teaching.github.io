@@ -44,8 +44,8 @@ $$
 
 $$
 \begin{equation}
-       	B'=-\nabla \times E, \\	
-       	E'=\nabla \times B - 4\pi j
+       	B'&=-\nabla \times E, \\	
+       	E'&=\nabla \times B - 4\pi j
 \end{equation}
 $$
 
