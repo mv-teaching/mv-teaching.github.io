@@ -4,7 +4,6 @@ title: Equations on Markdown
 tags:
 	- equations
 	- latex
-mathjax: true
 &lt;script type=&quot;text/javascript&quot; src=&quot;/opt/mathjax/MathJax.js?config=TeX-AMS_HTML&quot;
  MathJax.Hub.Config({
    tex2jax: {
